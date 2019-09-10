@@ -1,0 +1,29 @@
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Interop.ADODB.dll
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Interop.ADOMD.dll
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office Managemant.vbproj.ResolveComReference.cache
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\ResolveAssemblyReference.cache
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Formaccessories.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Formassociation.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Formcomplaint.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Formcustomer.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Formdeinstall.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Formhardware.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Forminstallation.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Formsearch.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Formsim.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Formstaff.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Formsupp.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Formtax.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.FormLogin.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.FrmSupplierSearch.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.MDIMain.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office_Managemant.Resources.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office Managemant.vbproj.GenerateResource.Cache
+D:\project academics\Office Management\Office Managemant\Office Managemant\bin\Release\Office Managemant.exe
+D:\project academics\Office Management\Office Managemant\Office Managemant\bin\Release\Office Managemant.pdb
+D:\project academics\Office Management\Office Managemant\Office Managemant\bin\Release\Office Managemant.xml
+D:\project academics\Office Management\Office Managemant\Office Managemant\bin\Release\Interop.ADODB.dll
+D:\project academics\Office Management\Office Managemant\Office Managemant\bin\Release\Interop.ADOMD.dll
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office Managemant.exe
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office Managemant.xml
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Release\Office Managemant.pdb

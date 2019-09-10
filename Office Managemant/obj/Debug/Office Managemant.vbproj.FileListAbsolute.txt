@@ -1,0 +1,194 @@
+D:\project academics\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.exe
+D:\project academics\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.pdb
+D:\project academics\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.xml
+D:\project academics\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADODB.dll
+D:\project academics\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADOMD.dll
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\ResolveAssemblyReference.cache
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADODB.dll
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADOMD.dll
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.ResolveComReference.cache
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.MDIMain.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Resources.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.GenerateResource.Cache
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.exe
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.xml
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.pdb
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formassociation.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcomplaint.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcustomer.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formdeinstall.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formhardware.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Forminstallation.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsim.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formstaff.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsupp.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FormLogin.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSupplierSearch.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADOMD.dll
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.ResolveComReference.cache
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.exe
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.xml
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.pdb
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADOMD.dll
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.ResolveComReference.cache
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.exe
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.xml
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.pdb
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\ResolveAssemblyReference.cache
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formaccessories.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formassociation.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcomplaint.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcustomer.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formdeinstall.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formhardware.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Forminstallation.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsearch.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsim.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formstaff.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsupp.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formtax.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FormLogin.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSupplierSearch.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.MDIMain.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Resources.resources
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.GenerateResource.Cache
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.exe
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.pdb
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.xml
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADODB.dll
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADOMD.dll
+D:\OfficeMVMS\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADODB.dll
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmBill.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADODB.dll
+G:\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.exe
+G:\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.pdb
+G:\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.xml
+G:\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADODB.dll
+G:\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADOMD.dll
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\ResolveAssemblyReference.cache
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formaccessories.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formassociation.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcomplaint.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcustomer.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formdeinstall.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formhardware.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Forminstallation.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsearch.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsim.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formstaff.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsupp.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formtax.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FormLogin.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmBill.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSupplierSearch.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.MDIMain.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Resources.resources
+G:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.GenerateResource.Cache
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADODB.dll
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADOMD.dll
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.ResolveComReference.cache
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.exe
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.xml
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.pdb
+D:\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.exe
+D:\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.pdb
+D:\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.xml
+D:\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADODB.dll
+D:\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADOMD.dll
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\ResolveAssemblyReference.cache
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formassociation.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcomplaint.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcustomer.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formdeinstall.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formhardware.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Forminstallation.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsim.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formstaff.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsupp.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FormLogin.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmBill.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSupplierSearch.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.MDIMain.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Resources.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.GenerateResource.Cache
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.print_bill.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmReciept.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmReciept.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.print_bill.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADODB.dll
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADOMD.dll
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.ResolveComReference.cache
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.exe
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.xml
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.pdb
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\ResolveAssemblyReference.cache
+D:\d\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.exe
+D:\d\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.pdb
+D:\d\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.xml
+D:\d\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADODB.dll
+D:\d\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADOMD.dll
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formassociation.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcomplaint.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcustomer.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formdeinstall.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formhardware.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Forminstallation.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsim.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formstaff.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsupp.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FormLogin.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmBill.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmReciept.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmStaff.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSupplierSearch.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.MDIMain.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Resources.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.print_bill.resources
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.GenerateResource.Cache
+D:\d\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FRMcOMPLIANrEPORT.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FRMcOMPLIANrEPORT.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSearch.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Interop.ADOMD.dll
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.exe
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.xml
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.pdb
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.exe
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.pdb
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\bin\Debug\Office Managemant.xml
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\bin\Debug\Interop.ADOMD.dll
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formassociation.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcomplaint.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formcustomer.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formdeinstall.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formhardware.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Forminstallation.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsim.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formstaff.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Formsupp.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FormLogin.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmBill.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FRMcOMPLIANrEPORT.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmReciept.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSearch.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSupplierSearch.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.MDIMain.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.Resources.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.print_bill.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office Managemant.vbproj.GenerateResource.Cache
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmHardwareStock.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmOutstanding.resources
+D:\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSimStock.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmHardwareStock.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmOutstanding.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSimStock.resources
+C:\Users\Administrator\Desktop\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.formadvance.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.formadvance.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FRMcOMPLIANrEPORT.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmHardwareStock.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmOutstanding.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSearch.resources
+D:\project academics\Office Management\Office Managemant\Office Managemant\obj\Debug\Office_Managemant.FrmSimStock.resources
